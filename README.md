@@ -14,7 +14,7 @@ Reactivate the SendGrid
 
 - Fetch note from redux when it already loaded.
 - Add info page for blank note when user first loading, base on different router show different introductions
--  √ replace left size logo  
+-  √ replace left side logo  
 - hide left side category bar when screen is too small
 - add fixed button for scroll to top 
 
