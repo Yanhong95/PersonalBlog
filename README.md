@@ -24,6 +24,8 @@ Reactivate the SendGrid
 
 ### Phase two: 
 
+- styling of the note page.
+- Allow user to search notes bast on title.
 - note deletion
 - upload page optimization. 
 - Allow user leave comments after login. and browse other’s comment.
