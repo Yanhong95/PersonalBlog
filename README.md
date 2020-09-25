@@ -3,6 +3,12 @@
 Build a place to publish my daily notes regarding the algorithm problems I solved, some technical notes, and experience, etc.
 
 
+### Features
+
+-  √ Dynamic display the personal resume information based on the data of the built-in json document.
+-  √ Used Grid and Flexbox to achive dynamic design of whole whebsite, will adjust based on most screen sizes to achieve perfect content display effect.
+-  √ Fetching notes from redux when it already loaded. reduce the http requests and S3 access.
+-  √ Leveraged FortAwesome icons to beautify and guide user on main Navbar  
 
 ### Remaining problem
 
@@ -12,9 +18,7 @@ Reactivate the SendGrid
 
 ### Phase one: 
 
-- Fetch note from redux when it already loaded.
 - Add info page for blank note when user first loading, base on different router show different introductions
--  √ replace left side logo  
 - hide left side category bar when screen is too small
 - add fixed button for scroll to top 
 
