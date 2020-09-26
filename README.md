@@ -12,6 +12,7 @@ In addition, for me to have a place to post my daily notes about the algorithm p
 -  🚀   Admin can add different topics, categories and upload notes to website.
 -  🔥   Fetching notes from redux when it already loaded. reduce the http requests and S3 access.
 -  🍑   Leveraged FortAwesome icons to beautify and guide user on main Navbar.
+-  ❤️   Thanks to'ReactMarkdown' and'react-syntax-highlighter' for providing such excellent plugins so that I can beautify my markdown files
 
 ### Remaining problem
 
@@ -23,7 +24,7 @@ Reactivate the SendGrid
 ### Phase two: 
 
 - 👌 Add info page for blank note when user first loading, base on different router show different introductions
-- add fixed button for scroll to top 
+- 👌 add fixed button for scroll to top 
 - hide left side category bar when screen is too small
 
 
