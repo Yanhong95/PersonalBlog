@@ -12,7 +12,7 @@ In addition, for me to have a place to post my daily notes about the algorithm p
 -  🚀   Admin can add different topics, categories, and upload notes to the website.
 -  🔥   Fetching notes from redux when it already loaded. reduce HTTP requests and S3 access.
 -  🍑   Leveraged FortAwesome icons to beautify and guide users on the main Navbar.
--  ❤️   Thanks to'ReactMarkdown' and 'react-syntax-highlighter' for providing such excellent plugins so that I can beautify my markdown files
+-  ❤️   Thanks to the team of 'ReactMarkdown' and 'react-syntax-highlighter' for providing such excellent plugins so that I can beautify my markdown files
 
 ### Remaining problem
 
