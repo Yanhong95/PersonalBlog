@@ -23,15 +23,15 @@ Reactivate the SendGrid
 
 ### Phase two: 
 
+- 👌 styling of the note page.
 - 👌 Add info page to blank note when user first loading.
 - 👌 Add a fixed button for scroll to top .
-- hide left side category bar when the screen is too small.
-- change markdown code type base on topic.
-
+- 👌 hide left side category bar when the screen is too small.
+- 👌 change markdown code type base on topic.
 
 ### Phase two: 
 
-- styling of the note page.
+
 - Allow users to search notes bast on the title.
 - note deletion
 - upload page optimization. 
